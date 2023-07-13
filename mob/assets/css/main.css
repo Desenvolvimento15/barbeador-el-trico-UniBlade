@@ -1727,57 +1727,7 @@ h6 {
 .price-common .xm-price__sNum {
   font-weight: 700 !important;
 }
-@font-face {
-  font-family: POCOTech;
-  font-weight: 100;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Hairline.woff)
-    format("woff");
-}
-@font-face {
-  font-family: POCOTech;
-  font-weight: 200;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-ExtraLight.woff)
-    format("woff");
-}
-@font-face {
-  font-family: POCOTech;
-  font-weight: 300;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Light.woff)
-    format("woff");
-}
-@font-face {
-  font-family: POCOTech;
-  font-weight: 400;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Regular.woff)
-    format("woff");
-}
-@font-face {
-  font-family: POCOTech;
-  font-weight: 500;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Medium.woff)
-    format("woff");
-}
-@font-face {
-  font-family: POCOTech;
-  font-weight: 600;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-SemiBold.woff)
-    format("woff");
-}
-@font-face {
-  font-family: POCOTech;
-  font-weight: 700;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Bold.woff)
-    format("woff");
-}
-@font-face {
-  font-family: POCOTech;
-  font-weight: 800;
-  src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/POCOTech/POCOTech-cool-Book.woff)
-    format("woff");
-}
-.poco {
-  font-family: POCOTech;
-}
+
 body {
   -webkit-tap-highlight-color: transparent;
   background-color: var(--background-base-variant);
@@ -1786,9 +1736,7 @@ body {
   line-height: 1.5;
   min-width: 6.666667rem;
 }
-.clearfix {
-  *zoom: 1;
-}
+
 .clearfix:after,
 .clearfix:before {
   content: "";
